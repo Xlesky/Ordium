@@ -6,7 +6,7 @@
 
 # Recent Updates
 
-・No updates were released yet. 🤣
+・No updates were released yet.
 
 
 # Upcoming
