@@ -82,3 +82,5 @@ getgenv().Ordium = {
         p140_150 = 0.1555
     },
 }
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xlesky/rahhh/main/versions/Table/Ordium/BETA", true))()
