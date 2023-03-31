@@ -1,6 +1,7 @@
 # Ordium | #1 Closet Cheat
 
 ・Improved the Wall Check, Knocked Check and Grabbed Check.
+
 ・Changed a few things about the Silent and Aim Assist.
 
 # Recent Updates
@@ -11,7 +12,9 @@
 # Upcoming
 
 ・Adding Anti-Moderation option soon, (e.g Rejoin-Key, Kick_If_Mod_Joins etc)
+
 ・**Thinking about adding GunFOV, we don't know if it'll be useful.**
+
 ・More features come to Ordium every week, $10 USD | 1,000 R$ 
 
 # Script
