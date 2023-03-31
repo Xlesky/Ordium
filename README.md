@@ -1,7 +1,7 @@
 # rahhh | #1 closet cheat
 
 1. JUST BETTER
-`
+```
 getgenv().Ordium = {
     ["Ordium"] = {
         Key = "putyourkeyhere",
@@ -78,4 +78,4 @@ getgenv().Ordium = {
         p130_140 = 0.1500,
         p140_150 = 0.1555
     },
-}`
+}```
