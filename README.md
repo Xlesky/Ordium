@@ -3,6 +3,7 @@
 1. Improved the Wall Check, Knocked Check and Grabbed Check.
 2. Changed a few things about the Silent and Aim Assist.
 
+#Table | Shows you all the features/info you need to know about Ordium.
 ```
 getgenv().Ordium = {
     ["Ordium"] = {
