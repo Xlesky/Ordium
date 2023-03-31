@@ -1,6 +1,8 @@
-# rahhh | #1 closet cheat
+# Ordium | #1 Closet Cheat
 
-1. JUST BETTER
+1. Improved the Wall Check, Knocked Check and Grabbed Check.
+2. Changed a few things about the Silent and Aim Assist.
+
 ```
 getgenv().Ordium = {
     ["Ordium"] = {
