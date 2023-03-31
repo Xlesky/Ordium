@@ -2,7 +2,7 @@
 
 1. JUST BETTER
 
-getgenv().Ordium = {
+```getgenv().Ordium = {
     ["Ordium"] = {
         Key = "putyourkeyhere",
         Intro = true,
@@ -78,4 +78,4 @@ getgenv().Ordium = {
         p130_140 = 0.1500,
         p140_150 = 0.1555
     },
-}
+}```
